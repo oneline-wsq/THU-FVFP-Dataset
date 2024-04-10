@@ -6,7 +6,7 @@ THU-FVFP dataset, a multimodal dataset containing paired touchless finger vein a
 2024-04
 
 ## Download:
-Send the license agreement to yangelwm@163.com. The successful applicants will receive the download link for the THUMVFV-3V database.
+Send the license agreement to yangelwm@163.com. The successful applicants will receive the download link for the THU-FVFP database.
 
 ## Copyright:
 All rights of the THU-FVFP database are reserved. The database is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
