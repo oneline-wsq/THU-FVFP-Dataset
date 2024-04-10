@@ -1,6 +1,6 @@
 # THU-FVFP-Dataset
 
-THU-FVFP dataset, a multimodal dataset containing paired touchless finger vein and fingerprint images from four fingers. We recruited 140 subjects from the University Town of Shenzhen, comprising 99 males and 41 females. Each volunteer's hands were captured four times, with imaging conducted under visible and near-infrared lighting conditions. Two separate data collection sessions were conducted with 3-4 month intervals between them. The THU-FVFP dataset includes 4,480 finger vein and fingerprint images, with the resolution $1440\times1280$ pixels.
+THU-FVFP dataset, a multimodal dataset containing paired touchless finger vein and fingerprint images from four fingers. We recruited 140 subjects from the University Town of Shenzhen, comprising 99 males and 41 females. Each volunteer's hands were captured four times, with imaging conducted under visible and near-infrared lighting conditions. Two separate data collection sessions were conducted with 3-4 month intervals between them.
 
 ## Publish date:
 2024-04
